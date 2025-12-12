@@ -10,3 +10,4 @@ O objetivo deste repositório é servir como **portfólio pessoal**, demonstrand
 - Criptografia e proteção de dados
 - Ferramentas e boas práticas de segurança
 
+**PS:** Alguns máteriais vão estar em inglês
